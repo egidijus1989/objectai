@@ -1,0 +1,15 @@
+.form-inline{
+    border: 1px solid #000;
+    border-radius: 5px;
+    .formHeader{
+        background-color: #d3d3d3;
+        padding: 1%;
+    }
+    .formBody{
+        padding: 2%;
+        row-gap: 5%;
+        .form-group{
+            margin:5% 10%;
+        }
+    }
+}
